@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/NebulaRoot/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Uranium PVP",
+    "description": "Serveur officiel Uranium PVP - Minecraft Forge 1.20.1",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "whoever-units.gl.joinmc.link",
+    "discord": {
+      "shortId": "UraniumPVP",
+      "largeImageText": "Uranium PVP Server",
+      "largeImageKey": "server-prod"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.10"
+  },
+  "untrackedFiles": []
+}
