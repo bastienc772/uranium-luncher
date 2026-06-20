@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "me.isaiah:multiworld:1.20.1@jar",
+          "name": "Multiworld",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124217,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/Multiworld-Forge-1.20.1.jar",
+            "MD5": "c479164bedbbede71750f8b09007b909"
+          }
+        },
+        {
           "id": "uraniumserver:uraniumserver:1.0.0@jar",
           "name": "Uranium-server",
           "type": "ForgeMod",
