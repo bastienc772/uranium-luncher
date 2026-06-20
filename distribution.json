@@ -433,6 +433,76 @@
           ]
         },
         {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "biomesoplenty.forge.core:biomesoplenty:19.0.0.96@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22381010,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+            "MD5": "886b3d33f1e7dca2a937ec5c5dc19af8"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.8@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19170905,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:6.21.0@jar",
+          "name": "Easy NPC: Bundle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25442,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-6.21.0.jar",
+            "MD5": "60c9a9b62a1cbf8f79ee4791910ac308"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.2@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252579,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-teams-forge-2001.3.2.jar",
+            "MD5": "1c547d6f1b22f461f84c5fb79067b0ec"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.130@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1409705,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.130.jar",
+            "MD5": "a47e80ce79ecbb6c60e28880ab997d1d"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:10.4.16@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12558456,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/Mekanism-1.20.1-10.4.16.80.jar",
+            "MD5": "3791fb5cf1e8b6f583d3a00d5115d1ee"
+          }
+        },
+        {
           "id": "me.isaiah:multiworld:1.20.1@jar",
           "name": "Multiworld",
           "type": "ForgeMod",
@@ -443,6 +513,46 @@
           }
         },
         {
+          "id": "net.sixik:sdmshop:1.20.1-7.2.2@jar",
+          "name": "SDMShop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 590794,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/SDMShop-forge-1.20.1-7.2.2.jar",
+            "MD5": "bbcb94551aef5a576bd7e05120bcd40d"
+          }
+        },
+        {
+          "id": "com.oblivioussp:spartanweaponry:3.2.1@jar",
+          "name": "Spartan Weaponry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2834011,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+            "MD5": "d52d9b73cae7d0e91c2b48faccb90e10"
+          }
+        },
+        {
+          "id": "slimeknights.tconstruct:tconstruct:3.11.2.166@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21572031,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/TConstruct-1.20.1-3.11.2.166.jar",
+            "MD5": "812aad66dfecc0832ea4569cd3b1de5a"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
           "id": "uraniumserver:uraniumserver:1.0.0@jar",
           "name": "Uranium-server",
           "type": "ForgeMod",
@@ -450,6 +560,16 @@
             "size": 3496802,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/uraniumserver-1.0.0-forge-1.20.1.jar",
             "MD5": "34c5488322edbab7db1aa44fd4410f15"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.20@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 533738,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.20.jar",
+            "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2"
           }
         }
       ]
