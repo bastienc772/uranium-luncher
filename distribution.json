@@ -431,6 +431,76 @@
               }
             }
           ]
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:1802.3.12-build.726@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 576511,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-library-forge-1802.3.12-build.726.jar",
+            "MD5": "2010b1a42a8da255156690ec0608f58b"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.12@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780523,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-library-forge-2001.2.12.jar",
+            "MD5": "8bbd067159587d80f1c5286ea52e567b"
+          }
+        },
+        {
+          "id": "net.mcreator.sdmpay:sdm_pay:1.0.0@jar",
+          "name": "SDM pay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21137,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/sdm_pay-1.1.1-forge-1.20.1.jar",
+            "MD5": "91b83c97ddd7f32706616226345cadc0"
+          }
+        },
+        {
+          "id": "net.sixik.sdmuilib:sdm_ui_lib:1.20.1-1.8.3@jar",
+          "name": "SDM UI Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 261631,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/sdm_ui_lib-forge-1.20.1-1.8.3.jar",
+            "MD5": "aa64ab55d3c993754c0103722d71a210"
+          }
+        },
+        {
+          "id": "net.sixik:sdmeconomy:2.2.0@jar",
+          "name": "SDMEconomy",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 51988,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/SDMEconomy-1.20.1-forge-2.2.0.jar",
+            "MD5": "36a9bc23ba228b22255c49a4eab7711e"
+          }
+        },
+        {
+          "id": "net.sixik:sdmshop:1.20.1-7.2.2@jar",
+          "name": "SDMShop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 590794,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/SDMShop-forge-1.20.1-7.2.2.jar",
+            "MD5": "bbcb94551aef5a576bd7e05120bcd40d"
+          }
         }
       ]
     }
