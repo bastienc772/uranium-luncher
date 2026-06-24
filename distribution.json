@@ -561,6 +561,16 @@
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/tablist-1.0.1.jar",
             "MD5": "7aed23180128c9bcc5fa80d08fe62097"
           }
+        },
+        {
+          "id": "uraniumserver:uraniumserver:1.0.0@jar",
+          "name": "Uranium-server",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3496802,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/uraniumserver-1.0.0-forge-1.20.1.jar",
+            "MD5": "34c5488322edbab7db1aa44fd4410f15"
+          }
         }
       ]
     }
