@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "net.blay09.mods:balm:7.3.38@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 591397,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "MD5": "499467bc8050be8893b08995438cc026"
+          }
+        },
+        {
           "id": "com.jeremiahbl:bfcrmod:1.0.3@jar",
           "name": "Better Forge Chat Reborn",
           "type": "ForgeMod",
@@ -450,16 +460,6 @@
             "size": 186471,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/bfcrmod-1.20.1-3.0.0.jar",
             "MD5": "8fb2cd8ca04120dfac71e4f5b98a2b78"
-          }
-        },
-        {
-          "id": "net.mehdinoui:createoplenty:3.1@jar",
-          "name": "Create O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 46813,
-            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/COP-Create+6.0.7-3.1.jar",
-            "MD5": "8a4ed82b7f0a34518e472300aaef3f6c"
           }
         },
         {
