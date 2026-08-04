@@ -628,6 +628,16 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/architectury-9.2.14-forge%20(1).jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
@@ -710,6 +720,16 @@
             "size": 19471,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.38@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 591397,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "MD5": "499467bc8050be8893b08995438cc026"
           }
         },
         {
@@ -1423,6 +1443,16 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbessentials:2001.2.2@jar",
+          "name": "FTB Essentials",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155952,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.2.jar",
+            "MD5": "af57dc19d6a359ba3eb59494026bca8d"
+          }
+        },
+        {
           "id": "dev.ftb.mods:ftbessentials:2001.2.4@jar",
           "name": "FTB Essentials",
           "type": "ForgeMod",
@@ -1430,6 +1460,16 @@
             "size": 157732,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.4.jar",
             "MD5": "c46c0af33a0452001e8628075b341eb2"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.13@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780558,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/ftb-library-forge-2001.2.13.jar",
+            "MD5": "9de2c76938392445e735a98b352da9d4"
           }
         },
         {
@@ -1500,6 +1540,16 @@
             "size": 757362,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/futureshops-2.1.jar",
             "MD5": "4037afebae06d34ece182406e71cd625"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.9@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 991552,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.9.jar",
+            "MD5": "edc6083a1c68415b9635d68c7cdf7a99"
           }
         },
         {
@@ -2690,6 +2740,16 @@
             "size": 7729085,
             "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.26.jar",
             "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.6@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484221,
+            "url": "https://raw.githubusercontent.com/bastienc772/uranium-luncher/main/servers/uranium-pvp-1.20.1-1.20.1/forgemods/required/waystones-forge-1.20-14.1.6.jar",
+            "MD5": "c10d7e3725ec43c267871b783164e419"
           }
         },
         {
