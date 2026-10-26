@@ -1,1 +1,17 @@
 
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "uranium-pvp",
+      "name": "Uranium-PVP",
+      "description": "Rejoins l'aventure Uranium-PVP !",
+      "version": "1.0.0",
+      "address": "uranium-survival.skymc.io",
+      "minecraftVersion": "26.2",
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
